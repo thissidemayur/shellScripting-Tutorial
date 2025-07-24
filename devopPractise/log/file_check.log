@@ -1,0 +1,17 @@
+❌ q2-check_file_status.sh not found
+❌ filePath: q3-file_checker_loop.sh not found \n
+⚠️   /home/mayur/Documents/programmingLanguage/shell-scripting/devopPractise is directory \n
+❌ filePath: /home/mayur/Documents/programmingLanguage/shell-scripting/devopPractise/q3-file_checker_loop.sh not found \n
+⚠️   /home/mayur/Documents/programmingLanguage/shell-scripting/devopPractise is directory 
+✅ File: /home/mayur/Documents/programmingLanguage/shell-scripting/devopPractise/q2-check_file_status.sh exists 
+✅ File: q2-check_file_status.sh exists 
+✅ File: /etc/passwd exists 
+⚠️   /home/mayur is directory 
+⚠️   /home/gitlab-runner is directory 
+⚠️   /home/mayur/Documents/programmingLanguage/shell-scripting/devopPractise is directory 
+✅ File: /home/mayur/Documents/programmingLanguage/shell-scripting/devopPractise/q2-check_file_status.sh exists 
+✅ File: q2-check_file_status.sh exists 
+✅ File: /etc/passwd exists 
+⚠️   /home/mayur is directory 
+⚠️   /home/gitlab-runner is directory 
+❌ filePath: bhawani.txt not found 
